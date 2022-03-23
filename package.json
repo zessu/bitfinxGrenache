@@ -1,0 +1,19 @@
+{
+  "name": "decentralized-exchange",
+  "version": "1.0.0",
+  "description": "Decentralised example exchange ",
+  "main": "index.js",
+  "repository": "https://github.com/zessu/dex.git",
+  "author": "Andrew Makenzi",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "run-client": "",
+    "run-server": ""
+  },
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.12",
+    "grenache-nodejs-link": "^0.7.12",
+    "uuid": "^8.3.2"
+  }
+}

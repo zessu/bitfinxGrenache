@@ -1,0 +1,9 @@
+- more safety e.g check if type provided
+- mock data for some of the nodes
+- some tests for some of the functions
+- re-design, messy choices
+- user promisify instead of some callbacks
+- more marshalling, or typescript. some errors are easy to miss
+- eliminate some redundancy
+- handling possible errors
+- reliable way of clients to ensure we merge changes
